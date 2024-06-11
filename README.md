@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA and Backend.**
 
-- 👨‍💻 All of my projects are available at [priyanshu0511-portfolio.netlify.app](priyanshu0511-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [portfolio website](https://github.com/priyanshu0511/Portfolio-Website)
 
 - 💬 Ask me about **Web Development**
 
