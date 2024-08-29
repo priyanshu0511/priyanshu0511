@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6b513c3c1b542a405fd78a1cab6fee549f01bd6b5569f36e7502fc7eed4ef309/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067" />
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu0511&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu0511" /> </p>
 
