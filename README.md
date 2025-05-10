@@ -95,8 +95,8 @@
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyanshu0511&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&line_height=33" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0511&layout=compact&bg_color=1c1917&text_color=ffffff" height="200"/>
+  <img src="https://streak-stats.demolab.com/?user=priyanshu0511&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&line_height=33" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu0511&layout=compact&bg_color=1c1917&text_color=ffffff" height="175"/>
 </p>
 
 ---
