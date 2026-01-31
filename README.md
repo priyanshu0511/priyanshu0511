@@ -1,6 +1,11 @@
-
-  <img src="/priyanshu0511/assets/desktop-wallpaper-don-t-know-if-i-should-post-it-here-but-i-edited-the-leap-of-faith-leap-of-faith.jpg" alt="Welcome Banner" width="100%" />
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/priyanshu0511/priyanshu0511/main/assets/desktop-wallpaper-don-t-know-if-i-should-post-it-here-but-i-edited-the-leap-of-faith-leap-of-faith.jpg"
+    alt="Welcome Banner"
+    width="100%"
+  />
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">Creative thinker. Consistent coder. Occasionally sarcastic.</h3>
@@ -9,7 +14,9 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="/priyanshu0511/assets/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" />
+<img align="right" alt="Coding" width="400"
+src="https://raw.githubusercontent.com/priyanshu0511/priyanshu0511/main/assets/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" />
+
 
 <br>
 
