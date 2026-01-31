@@ -1,3 +1,7 @@
+
+  <img src="/priyanshu0511/assets/desktop-wallpaper-don-t-know-if-i-should-post-it-here-but-i-edited-the-leap-of-faith-leap-of-faith.jpg" alt="Welcome Banner" width="100%" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Priyanshu Singh</h1>
 <h3 align="center">Creative thinker. Consistent coder. Occasionally sarcastic.</h3>
 <p>
@@ -5,7 +9,7 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/190e7d3bb2ff91e8d67d7ddddf458fede09c5f391dc0e66c290c2bb9e84106fa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" />
+<img align="right" alt="Coding" width="400" src="/priyanshu0511/assets/313450464-2bd05422-3a3b-4d7c-94a1-7cdb584c09d7.gif" />
 
 <br>
 
