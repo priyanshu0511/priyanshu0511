@@ -59,7 +59,7 @@ src="https://raw.githubusercontent.com/priyanshu0511/priyanshu0511/main/assets/3
 ### My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-three-navy-82.vercel.app/api?username=priyanshu0511&layout=compact&bg_color=1c1917&text_color=ffffff" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=priyanshu0511&layout=compact&bg_color=1c1917&text_color=ffffff" height="175" />
   <img src="https://github-readme-stats-three-navy-82.vercel.app/api/top-langs/?username=priyanshu0511&layout=compact&bg_color=1c1917&text_color=ffffff" height="175"/>
 </p>
 
